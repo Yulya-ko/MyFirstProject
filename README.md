@@ -1,2 +1,1 @@
-# MyFirstProject
 Christmas Countdown
