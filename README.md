@@ -14,3 +14,4 @@ Users can enjoy festive music by clicking the Play button.
 The application is fully responsive and works seamlessly on all mobile devices.
 
 Link: https://github.com/Yulya-ko/MyFirstProject
+Demo version: https://christmas-coming.netlify.app
